@@ -1,0 +1,5 @@
+# Telegram token
+BOT_TOKEN = "YOUR BOT TOKEN"
+
+# OpenWeatherMap API key
+OPEN_WEATHER_MAP_API_KEY = "YOUR OPENWEATHER API"
