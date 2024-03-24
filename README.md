@@ -1,6 +1,6 @@
-![Weatheucity](img/Weatheucity.png)
+<img src="https://github.com/dkalenov/weather-bot/blob/main/img/Weatheucity.jpg" alt="Weatheucity" width="400" height="400">
 
-
+# Weatheucity
 About The Project 
 
 Functional:
@@ -11,7 +11,7 @@ You can check the weather for the following periods:
 - for the next 24 hours (24 hours);
 - for the next 5 days (5 days).
 
-![bot starting](img/bot starting.png)
+<img src="https://github.com/dkalenov/weather-bot/blob/main/img/bot%20starting.png" alt="bot starting" width="600" height="600">
 
 Resources and APIs
 - Python 3.9.13
